@@ -6,6 +6,9 @@ Agnese Barbensi, Naya Yerolemou, Oliver Vipond, Barbara I. Mahler, Pawel Dabrows
 Repository to accompany the manuscript *A topological selection of folding pathways from native states of knotted proteins.*
 
 
+We used Python 3.8.
+
+
 ## DATA
 
 1. 'f_distance_matrix.txt' - $f$-distance cost matrix
@@ -32,7 +35,9 @@ Repository to accompany the manuscript *A topological selection of folding pathw
 
 ## RESULTS
 
-1. Distance matrices and heatmaps for KnotoEMD computations between proteins and configurations.
+1. Distance matrices and heatmaps for KnotoEMD computations between proteins and configurations
+	- 'distance_matrices/trefoil_proteins_ordered.pickle' - a list of all trefoil in the order used in the distance matrices
+	- 'distance_matrices/configurations_ordered.pickle' - an (ordered) dictionary of the configurations and their groups
 2. UMAP plots to accompany Figures 3 and 4. All UMAP projections were computed using: 
 -       n_neighbors=60
 -       min_dist=0.3
