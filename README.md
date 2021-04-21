@@ -42,4 +42,5 @@ We used Python 3.8.
 	-       n_neighbors=60
 	-       min_dist=0.3
 	-       n_components=2,3
+	-       metric='precomputed'
 3. 'trefoil_proteins_sequence_similarity_dendrogram.png' - dendrogram displayed in Figure 3A
