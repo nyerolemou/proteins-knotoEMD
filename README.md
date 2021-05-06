@@ -3,7 +3,7 @@
 Agnese Barbensi, Naya Yerolemou, Oliver Vipond, Barbara I. Mahler, Pawel Dabrowski-Tumanski, Dimos Goundaroulis.
 
 
-Repository to accompany the manuscript *A topological selection of folding pathways from native states of knotted proteins.*
+Repository to accompany the manuscript [A topological selection of folding pathways from native states of knotted proteins](https://arxiv.org/abs/2104.10530).
 
 
 We used Python 3.8.
